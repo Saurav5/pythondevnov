@@ -19,3 +19,4 @@ print(str1 * 3)
 print('updating string', str1[:6] + 'planet')
 
 print('updating string', str1[:12] + 'perl')
+
